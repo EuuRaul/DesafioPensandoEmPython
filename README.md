@@ -16,4 +16,4 @@ Este repositório contém todas as atividades de código propostas no livro "Pen
     
 
 💡 Link do Livro:
-https://a.co/d/6M63T5V (Amazon)
+(https://a.co/d/6M63T5V [Amazon])
