@@ -1,6 +1,6 @@
 # Pensando em Python - Resolução de Atividades
 
-Este repositório contém todas as atividades de código propostas no livro "Pensando em Python". Aqui você encontrará soluções comentadas e organizadas por capítulos, abordando conceitos desde os fundamentos até tópicos mais avançados da linguagem Python.
+Este repositório contém todas as atividades de código propostas no livro "Pensando em Python". Aqui você encontrará as soluções organizadas por capítulos separados em pastas, abordando conceitos desde os fundamentos até tópicos mais avançados da linguagem Python.
 
 📚 Objetivo:
 
@@ -9,10 +9,8 @@ Este repositório contém todas as atividades de código propostas no livro "Pen
 
 🛠️ Conteúdo:
 
-    Capítulo 1: Introdução ao Python
-    Capítulo 2: Estruturas de Controle
-    Capítulo 3: Funções e Modularização
-    ... (adicione conforme necessário)
-
-💡 Contribuições:
-Sinta-se à vontade para sugerir melhorias ou compartilhar suas próprias soluções nos comentários ou pull requests!
+    Capítulo 1: A Jornada do Programa
+    Capítulo 2: Variáveis, Expressões e Instruções
+    Capítulo 3: Funções
+    (... Em Processo)
+    
