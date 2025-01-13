@@ -14,3 +14,6 @@ Este repositório contém todas as atividades de código propostas no livro "Pen
     Capítulo 3: Funções
     (... Em Processo)
     
+
+💡 Contribuições:
+Link do Livro: https://a.co/d/6M63T5V (Amazon)
