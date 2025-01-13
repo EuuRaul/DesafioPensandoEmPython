@@ -15,5 +15,6 @@ Este repositório contém todas as atividades de código propostas no livro "Pen
     (... Em Processo)
     
 
-💡 Contribuições:
-Link do Livro: https://a.co/d/6M63T5V (Amazon)
+💡 Link do Livro:
+
+https://a.co/d/6M63T5V (Amazon)
